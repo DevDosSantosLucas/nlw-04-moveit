@@ -2,6 +2,10 @@
 .experienceBar{
     display: flex;
     align-items:center;
+    background: var(--white);
+    padding: 5%;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 .experienceBar span{
     font-size: 1rem;

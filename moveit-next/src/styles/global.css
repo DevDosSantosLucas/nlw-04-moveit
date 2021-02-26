@@ -23,9 +23,15 @@
     }
 }
 
-@media(max-width: 720){
+@media(max-width: 720px){
     html{
         font-size: 87.5%;
+    }
+}
+
+@media(min-width: 600px){
+    html{
+        font-size: 90%;
     }
 }
 body{
